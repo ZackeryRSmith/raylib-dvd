@@ -1,3 +1,10 @@
+<div align="center">
+  <video controls> 
+    <source src=".github/res/dvd_video.mov" type="video/mov">
+  A short video showcase of raylib-dvd in action
+  </video>
+</div>
+
 # Raylib DVD
 A simple recreation of the iconic 'dvd bouncing' logo
 
