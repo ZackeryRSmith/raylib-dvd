@@ -1,8 +1,5 @@
 <div align="center">
-  <video controls autoplay> 
-    <source src=".github/res/dvd_video.mp4" type="video/mp4">
-  A short video showcase of raylib-dvd in action
-  </video>
+  <video src="https://github.com/ZackeryRSmith/raylib-dvd/assets/72983221/7e2854f9-27d2-4697-aacc-cbba4f638e05"></video>
 </div>
 
 # Raylib DVD
